@@ -1,2 +1,2 @@
-# InfoGAN-Study
-This is the transcript of my ECE647 final reading report presentation.
+# InfoGAN-Study Presentation Transcript
+This repository contains the transcript of my presentation on Info-GAN model in support of the video posted on Youtube.
